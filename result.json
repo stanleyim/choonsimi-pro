@@ -1,0 +1,235 @@
+﻿{
+  "date": "2026-05-11",
+  "regime": "UPTREND",
+  "top20": [
+    {
+      "rank": 1,
+      "code": "010140",
+      "name": "삼성중공업",
+      "score": 81.86,
+      "price": 33800,
+      "change_pct": 5.79,
+      "expected_return_5d": 1.91
+    },
+    {
+      "rank": 2,
+      "code": "004710",
+      "name": "한솔테크닉스",
+      "score": 78.08,
+      "price": 14140,
+      "change_pct": 29.96,
+      "expected_return_5d": 1.68
+    },
+    {
+      "rank": 3,
+      "code": "010170",
+      "name": "대한광통신",
+      "score": 77.53,
+      "price": 27800,
+      "change_pct": 24.38,
+      "expected_return_5d": 1.65
+    },
+    {
+      "rank": 4,
+      "code": "018880",
+      "name": "한온시스템",
+      "score": 76.3,
+      "price": 5810,
+      "change_pct": 21.8,
+      "expected_return_5d": 1.58
+    },
+    {
+      "rank": 5,
+      "code": "066570",
+      "name": "LG전자",
+      "score": 67.68,
+      "price": 158200,
+      "change_pct": 2.66,
+      "expected_return_5d": 1.06
+    },
+    {
+      "rank": 6,
+      "code": "011000",
+      "name": "진원생명과학",
+      "score": 66.44,
+      "price": 1194,
+      "change_pct": 5.76,
+      "expected_return_5d": 0.69
+    },
+    {
+      "rank": 7,
+      "code": "439960",
+      "name": "코스모로보틱스",
+      "score": 66.14,
+      "price": 22850,
+      "change_pct": 280.83,
+      "expected_return_5d": 0.68
+    },
+    {
+      "rank": 8,
+      "code": "055550",
+      "name": "신한지주",
+      "score": 65.7,
+      "price": 97600,
+      "change_pct": -0.41,
+      "expected_return_5d": 0.66
+    },
+    {
+      "rank": 9,
+      "code": "000660",
+      "name": "SK하이닉스",
+      "score": 65.67,
+      "price": 1936000,
+      "change_pct": 14.83,
+      "expected_return_5d": 0.94
+    },
+    {
+      "rank": 10,
+      "code": "000720",
+      "name": "현대건설",
+      "score": 63.4,
+      "price": 164100,
+      "change_pct": 0.06,
+      "expected_return_5d": 0.8
+    },
+    {
+      "rank": 11,
+      "code": "105560",
+      "name": "KB금융",
+      "score": 62.77,
+      "price": 159300,
+      "change_pct": -1.48,
+      "expected_return_5d": 0.54
+    },
+    {
+      "rank": 12,
+      "code": "012200",
+      "name": "계양전기",
+      "score": 62.19,
+      "price": 8490,
+      "change_pct": 0.12,
+      "expected_return_5d": 0.51
+    },
+    {
+      "rank": 13,
+      "code": "028260",
+      "name": "삼성물산",
+      "score": 61.46,
+      "price": 456000,
+      "change_pct": 7.93,
+      "expected_return_5d": 0.69
+    },
+    {
+      "rank": 14,
+      "code": "336260",
+      "name": "두산퓨얼셀",
+      "score": 61.09,
+      "price": 98700,
+      "change_pct": 14.37,
+      "expected_return_5d": 0.67
+    },
+    {
+      "rank": 15,
+      "code": "012330",
+      "name": "현대모비스",
+      "score": 59.9,
+      "price": 559000,
+      "change_pct": 9.82,
+      "expected_return_5d": 0.59
+    },
+    {
+      "rank": 16,
+      "code": "069540",
+      "name": "빛과전자",
+      "score": 59.17,
+      "price": 6090,
+      "change_pct": 17.12,
+      "expected_return_5d": 0.39
+    },
+    {
+      "rank": 17,
+      "code": "005930",
+      "name": "삼성전자",
+      "score": 58.81,
+      "price": 287500,
+      "change_pct": 7.08,
+      "expected_return_5d": 0.53
+    },
+    {
+      "rank": 18,
+      "code": "161890",
+      "name": "한국콜마",
+      "score": 56.53,
+      "price": 99800,
+      "change_pct": 6.62,
+      "expected_return_5d": 0.39
+    },
+    {
+      "rank": 19,
+      "code": "000270",
+      "name": "기아",
+      "score": 56.48,
+      "price": 177400,
+      "change_pct": 7.84,
+      "expected_return_5d": 0.39
+    },
+    {
+      "rank": 20,
+      "code": "402340",
+      "name": "SK스퀘어",
+      "score": 56.14,
+      "price": 1198000,
+      "change_pct": 9.11,
+      "expected_return_5d": 0.37
+    }
+  ],
+  "top5_core": [
+    {
+      "rank": 1,
+      "code": "010140",
+      "name": "삼성중공업",
+      "score": 81.86,
+      "price": 33800,
+      "change_pct": 5.79,
+      "expected_return_5d": 1.91
+    },
+    {
+      "rank": 2,
+      "code": "004710",
+      "name": "한솔테크닉스",
+      "score": 78.08,
+      "price": 14140,
+      "change_pct": 29.96,
+      "expected_return_5d": 1.68
+    },
+    {
+      "rank": 3,
+      "code": "010170",
+      "name": "대한광통신",
+      "score": 77.53,
+      "price": 27800,
+      "change_pct": 24.38,
+      "expected_return_5d": 1.65
+    },
+    {
+      "rank": 4,
+      "code": "018880",
+      "name": "한온시스템",
+      "score": 76.3,
+      "price": 5810,
+      "change_pct": 21.8,
+      "expected_return_5d": 1.58
+    }
+  ],
+  "entry_top5": [
+    {
+      "rank": 1,
+      "code": "010140",
+      "name": "삼성중공업",
+      "entry_score": 84.67,
+      "base_score": 81.86,
+      "price": 33800,
+      "change_pct": 5.79
+    }
+  ]
+}
