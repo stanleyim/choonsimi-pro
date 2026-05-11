@@ -8,5 +8,5 @@ finance-datareader==0.9.50
 feedparser>=6.0.0
 beautifulsoup4>=4.12.0
 
-opendartreader==0.0.15
+opendartreader==0.2.3
 holidays==0.47
