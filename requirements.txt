@@ -1,9 +1,12 @@
 pandas==2.2.2
-numpy==1.26.4
-requests>=2.31.0,<2.33
-lxml>=5.2.1,<6
+numpy>=1.26.4,<2.0
+
+requests>=2.31.0,<3.0
+lxml>=5.2.1,<7
+
 finance-datareader==0.9.50
 feedparser>=6.0.0
 beautifulsoup4>=4.12.0
-opendartreader>=0.0.15
-holidays>=0.40
+
+opendartreader==0.0.15
+holidays==0.47
