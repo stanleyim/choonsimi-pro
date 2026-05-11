@@ -117,7 +117,7 @@ jobs:
       env:
         DART_API_KEY:   ${{ secrets.DART_API_KEY }}
         PRO_MODE: "true"
-      run: python engine.py
+      run: python engine/engine.py
 
     # ─────────────────────────────
     # 결과 검증
