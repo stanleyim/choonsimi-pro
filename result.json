@@ -1,0 +1,462 @@
+﻿{
+  "date": "2026-05-14",
+  "biz_day": "2026-05-14",
+  "run_at": "2026-05-14 11:05:43",
+  "mode": "PRO",
+  "regime": "UPTREND",
+  "confidence": 0.57,
+  "universe_size": 94,
+  "data_quality": "sample",
+  "top10": [
+    {
+      "rank": 1,
+      "code": "034220",
+      "name": "LG디스플레이",
+      "score": 85.51,
+      "price": 15020,
+      "change_pct": 6.0,
+      "expected_return_5d": 2.13,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 2,
+      "code": "005880",
+      "name": "대한해운",
+      "score": 84.85,
+      "price": 2515,
+      "change_pct": 5.45,
+      "expected_return_5d": 2.09,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 3,
+      "code": "009830",
+      "name": "한화솔루션",
+      "score": 84.73,
+      "price": 46150,
+      "change_pct": 6.95,
+      "expected_return_5d": 2.08,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 4,
+      "code": "088350",
+      "name": "한화생명",
+      "score": 82.9,
+      "price": 5550,
+      "change_pct": 11.45,
+      "expected_return_5d": 1.97,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 5,
+      "code": "001740",
+      "name": "SK네트웍스",
+      "score": 80.45,
+      "price": 7900,
+      "change_pct": 29.93,
+      "expected_return_5d": 1.28,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 6,
+      "code": "035720",
+      "name": "카카오",
+      "score": 78.63,
+      "price": 44750,
+      "change_pct": 4.19,
+      "expected_return_5d": 1.72,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 7,
+      "code": "064400",
+      "name": "LG씨엔에스",
+      "score": 73.0,
+      "price": 84000,
+      "change_pct": 14.29,
+      "expected_return_5d": 1.38,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 8,
+      "code": "452260",
+      "name": "한화갤러리아",
+      "score": 71.77,
+      "price": 3785,
+      "change_pct": 3.98,
+      "expected_return_5d": 1.31,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 9,
+      "code": "047040",
+      "name": "대우건설",
+      "score": 71.43,
+      "price": 31150,
+      "change_pct": 7.6,
+      "expected_return_5d": 0.9,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 10,
+      "code": "081150",
+      "name": "티플랙스",
+      "score": 71.28,
+      "price": 5470,
+      "change_pct": 27.36,
+      "expected_return_5d": 1.28,
+      "roe": null,
+      "debt_ratio": null
+    }
+  ],
+  "top20": [
+    {
+      "rank": 1,
+      "code": "034220",
+      "name": "LG디스플레이",
+      "score": 85.51,
+      "price": 15020,
+      "change_pct": 6.0,
+      "expected_return_5d": 2.13,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 2,
+      "code": "005880",
+      "name": "대한해운",
+      "score": 84.85,
+      "price": 2515,
+      "change_pct": 5.45,
+      "expected_return_5d": 2.09,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 3,
+      "code": "009830",
+      "name": "한화솔루션",
+      "score": 84.73,
+      "price": 46150,
+      "change_pct": 6.95,
+      "expected_return_5d": 2.08,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 4,
+      "code": "088350",
+      "name": "한화생명",
+      "score": 82.9,
+      "price": 5550,
+      "change_pct": 11.45,
+      "expected_return_5d": 1.97,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 5,
+      "code": "001740",
+      "name": "SK네트웍스",
+      "score": 80.45,
+      "price": 7900,
+      "change_pct": 29.93,
+      "expected_return_5d": 1.28,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 6,
+      "code": "035720",
+      "name": "카카오",
+      "score": 78.63,
+      "price": 44750,
+      "change_pct": 4.19,
+      "expected_return_5d": 1.72,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 7,
+      "code": "064400",
+      "name": "LG씨엔에스",
+      "score": 73.0,
+      "price": 84000,
+      "change_pct": 14.29,
+      "expected_return_5d": 1.38,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 8,
+      "code": "452260",
+      "name": "한화갤러리아",
+      "score": 71.77,
+      "price": 3785,
+      "change_pct": 3.98,
+      "expected_return_5d": 1.31,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 9,
+      "code": "047040",
+      "name": "대우건설",
+      "score": 71.43,
+      "price": 31150,
+      "change_pct": 7.6,
+      "expected_return_5d": 0.9,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 10,
+      "code": "081150",
+      "name": "티플랙스",
+      "score": 71.28,
+      "price": 5470,
+      "change_pct": 27.36,
+      "expected_return_5d": 1.28,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 11,
+      "code": "035420",
+      "name": "NAVER",
+      "score": 67.91,
+      "price": 210500,
+      "change_pct": 4.47,
+      "expected_return_5d": 1.07,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 12,
+      "code": "000720",
+      "name": "현대건설",
+      "score": 67.79,
+      "price": 166600,
+      "change_pct": 3.67,
+      "expected_return_5d": 1.07,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 13,
+      "code": "322000",
+      "name": "HD현대에너지솔루션",
+      "score": 66.85,
+      "price": 243500,
+      "change_pct": 14.86,
+      "expected_return_5d": 1.01,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 14,
+      "code": "090460",
+      "name": "비에이치",
+      "score": 66.27,
+      "price": 37450,
+      "change_pct": 24.21,
+      "expected_return_5d": 0.98,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 15,
+      "code": "006360",
+      "name": "GS건설",
+      "score": 65.16,
+      "price": 33750,
+      "change_pct": 1.66,
+      "expected_return_5d": 0.91,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 16,
+      "code": "008350",
+      "name": "남선알미늄",
+      "score": 64.92,
+      "price": 2170,
+      "change_pct": 12.67,
+      "expected_return_5d": 0.63,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 17,
+      "code": "028050",
+      "name": "삼성E&A",
+      "score": 64.36,
+      "price": 53700,
+      "change_pct": 1.32,
+      "expected_return_5d": 0.86,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 18,
+      "code": "032580",
+      "name": "피델릭스",
+      "score": 63.61,
+      "price": 3990,
+      "change_pct": 24.3,
+      "expected_return_5d": 0.57,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 19,
+      "code": "086960",
+      "name": "MDS테크",
+      "score": 63.1,
+      "price": 3860,
+      "change_pct": 17.5,
+      "expected_return_5d": 0.55,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 20,
+      "code": "001450",
+      "name": "현대해상",
+      "score": 62.56,
+      "price": 32150,
+      "change_pct": 6.28,
+      "expected_return_5d": 0.75,
+      "roe": null,
+      "debt_ratio": null
+    }
+  ],
+  "top5_core": [
+    {
+      "rank": 1,
+      "code": "034220",
+      "name": "LG디스플레이",
+      "score": 85.51,
+      "price": 15020,
+      "change_pct": 6.0,
+      "expected_return_5d": 2.13,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 2,
+      "code": "005880",
+      "name": "대한해운",
+      "score": 84.85,
+      "price": 2515,
+      "change_pct": 5.45,
+      "expected_return_5d": 2.09,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 3,
+      "code": "009830",
+      "name": "한화솔루션",
+      "score": 84.73,
+      "price": 46150,
+      "change_pct": 6.95,
+      "expected_return_5d": 2.08,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 4,
+      "code": "088350",
+      "name": "한화생명",
+      "score": 82.9,
+      "price": 5550,
+      "change_pct": 11.45,
+      "expected_return_5d": 1.97,
+      "roe": null,
+      "debt_ratio": null
+    }
+  ],
+  "entry_top5": [
+    {
+      "rank": 1,
+      "code": "034220",
+      "name": "LG디스플레이",
+      "score": 85.51,
+      "entry_score": 92.14,
+      "price": 15020,
+      "change_pct": 6.0,
+      "expected_return_5d": 2.13,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 2,
+      "code": "005880",
+      "name": "대한해운",
+      "score": 84.85,
+      "entry_score": 86.23,
+      "price": 2515,
+      "change_pct": 5.45,
+      "expected_return_5d": 2.09,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 3,
+      "code": "452260",
+      "name": "한화갤러리아",
+      "score": 71.77,
+      "entry_score": 83.89,
+      "price": 3785,
+      "change_pct": 3.98,
+      "expected_return_5d": 1.31,
+      "roe": null,
+      "debt_ratio": null
+    }
+  ],
+  "pro_top": [
+    {
+      "rank": 1,
+      "code": "034220",
+      "name": "LG디스플레이",
+      "score": 85.51,
+      "pro_score": 96.78,
+      "price": 15020,
+      "change_pct": 6.0,
+      "expected_return_5d": 2.13,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 2,
+      "code": "005880",
+      "name": "대한해운",
+      "score": 84.85,
+      "pro_score": 91.83,
+      "price": 2515,
+      "change_pct": 5.45,
+      "expected_return_5d": 2.09,
+      "roe": null,
+      "debt_ratio": null
+    }
+  ],
+  "pro_signal": true,
+  "pro_no_signal": null,
+  "performance_today": {
+    "win_rate": 0,
+    "avg_return": 0,
+    "top5_return": 0
+  },
+  "pro_performance": null
+}
