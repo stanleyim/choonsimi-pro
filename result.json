@@ -1,8 +1,9 @@
 ﻿{
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "biz_day": "2026-05-18",
-  "run_at": "2026-05-18 23:05:39",
+  "run_at": "2026-05-19 13:15:58",
   "mode": "PRO",
+  "market_open": true,
   "regime": "UPTREND",
   "confidence": 0.61,
   "universe_size": 95,
@@ -465,108 +466,9 @@
   "pro_signal": true,
   "pro_no_signal": null,
   "performance_today": {
-    "win_rate": 5.0,
-    "avg_return": -2.72,
-    "top5_return": -5.43
+    "win_rate": 0,
+    "avg_return": 0,
+    "top5_return": 0
   },
-  "pro_performance": {
-    "signal_date": "2026-05-15",
-    "eval_date": "2026-05-18",
-    "evaluated": 10,
-    "win_count": 1,
-    "win_rate": 10.0,
-    "avg_return": -5.43,
-    "details": [
-      {
-        "rank": 1,
-        "code": "001740",
-        "name": "SK네트웍스",
-        "entry": 8720,
-        "exit": 8250,
-        "return_pct": -5.39,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 3,
-        "code": "004020",
-        "name": "현대제철",
-        "entry": 46150,
-        "exit": 43450,
-        "return_pct": -5.85,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 5,
-        "code": "034220",
-        "name": "LG디스플레이",
-        "entry": 14100,
-        "exit": 13390,
-        "return_pct": -5.04,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 7,
-        "code": "035250",
-        "name": "강원랜드",
-        "entry": 16300,
-        "exit": 15950,
-        "return_pct": -2.15,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 11,
-        "code": "454910",
-        "name": "두산로보틱스",
-        "entry": 127400,
-        "exit": 117900,
-        "return_pct": -7.46,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 12,
-        "code": "261780",
-        "name": "차백신연구소",
-        "entry": 4195,
-        "exit": 3355,
-        "return_pct": -20.02,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 15,
-        "code": "064400",
-        "name": "LG씨엔에스",
-        "entry": 86600,
-        "exit": 81300,
-        "return_pct": -6.12,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 16,
-        "code": "010140",
-        "name": "삼성중공업",
-        "entry": 29300,
-        "exit": 29550,
-        "return_pct": 0.85,
-        "result": "✅ 상승"
-      },
-      {
-        "rank": 19,
-        "code": "003280",
-        "name": "흥아해운",
-        "entry": 2740,
-        "exit": 2690,
-        "return_pct": -1.82,
-        "result": "❌ 하락"
-      },
-      {
-        "rank": 20,
-        "code": "028670",
-        "name": "팬오션",
-        "entry": 6030,
-        "exit": 5950,
-        "return_pct": -1.33,
-        "result": "❌ 하락"
-      }
-    ]
-  }
+  "pro_performance": null
 }
