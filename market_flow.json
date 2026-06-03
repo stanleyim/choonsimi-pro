@@ -1,145 +1,28 @@
 ﻿{
-  "date": "2026-06-02",
+  "date": "2026-06-04",
   "scores": {
-    "KOSPI_foreign": 0.6403,
+    "KOSPI_foreign": 0.5,
     "KOSPI_institution": 0.5878,
     "KOSDAQ_foreign": 0.6318,
     "KOSDAQ_institution": 0.55
   },
   "confidences": {
-    "KOSPI_foreign": 0.95,
+    "KOSPI_foreign": 0.3,
     "KOSPI_institution": 0.95,
     "KOSDAQ_foreign": 0.95,
     "KOSDAQ_institution": 0.95
   },
   "statuses": {
-    "KOSPI_foreign": "normal",
+    "KOSPI_foreign": "no_data",
     "KOSPI_institution": "normal",
     "KOSDAQ_foreign": "normal",
     "KOSDAQ_institution": "normal"
   },
   "KOSPI_foreign": {
-    "score": 0.6403,
-    "confidence": 0.95,
-    "status": "normal",
-    "rows": [
-      {
-        "code": "009150",
-        "net": 12
-      },
-      {
-        "code": "402340",
-        "net": 12
-      },
-      {
-        "code": "373220",
-        "net": 12
-      },
-      {
-        "code": "011070",
-        "net": 11
-      },
-      {
-        "code": "028260",
-        "net": 11
-      },
-      {
-        "code": "034220",
-        "net": 15
-      },
-      {
-        "code": "047040",
-        "net": 14
-      },
-      {
-        "code": "353200",
-        "net": 12
-      },
-      {
-        "code": "051910",
-        "net": 11
-      },
-      {
-        "code": "000990",
-        "net": 12
-      },
-      {
-        "code": "329180",
-        "net": 10
-      },
-      {
-        "code": "010060",
-        "net": 11
-      },
-      {
-        "code": "000720",
-        "net": 12
-      },
-      {
-        "code": "034730",
-        "net": 10
-      },
-      {
-        "code": "006260",
-        "net": 10
-      },
-      {
-        "code": "336260",
-        "net": 12
-      },
-      {
-        "code": "000810",
-        "net": 10
-      },
-      {
-        "code": "128940",
-        "net": 10
-      },
-      {
-        "code": "267270",
-        "net": 11
-      },
-      {
-        "code": "000270",
-        "net": 11
-      },
-      {
-        "code": "005387",
-        "net": 10
-      },
-      {
-        "code": "010950",
-        "net": 11
-      },
-      {
-        "code": "316140",
-        "net": 13
-      },
-      {
-        "code": "007660",
-        "net": 11
-      },
-      {
-        "code": "096770",
-        "net": 11
-      },
-      {
-        "code": "006800",
-        "net": 12
-      },
-      {
-        "code": "001820",
-        "net": 11
-      },
-      {
-        "code": "003670",
-        "net": 10
-      },
-      {
-        "code": "001440",
-        "net": 12
-      }
-    ]
+    "score": 0.5,
+    "confidence": 0.3,
+    "status": "no_data",
+    "rows": []
   },
   "KOSPI_institution": {
     "score": 0.5878,
@@ -502,7 +385,7 @@
       }
     ]
   },
-  "updated_at": "2026-06-02T23:26:03.179655+09:00",
+  "updated_at": "2026-06-04T00:07:50.394261+09:00",
   "history": [
     {
       "date": "2026-05-14",
@@ -607,6 +490,15 @@
       "date": "2026-06-02",
       "scores": {
         "KOSPI_foreign": 0.6403,
+        "KOSPI_institution": 0.5878,
+        "KOSDAQ_foreign": 0.6318,
+        "KOSDAQ_institution": 0.55
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "scores": {
+        "KOSPI_foreign": 0.5,
         "KOSPI_institution": 0.5878,
         "KOSDAQ_foreign": 0.6318,
         "KOSDAQ_institution": 0.55
