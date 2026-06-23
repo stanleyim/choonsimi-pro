@@ -1,398 +1,367 @@
 ﻿{
   "date": "2026-06-23",
   "biz_day": "2026-06-23",
-  "run_at": "2026-06-23 00:37:11",
+  "run_at": "2026-06-23 21:50:39",
   "mode": "PRO",
   "regime": "UPTREND",
   "confidence": 0.59,
-  "universe_size": 87,
+  "universe_size": 89,
   "data_quality": "full",
   "top10": [
     {
       "rank": 1,
-      "code": "004710",
-      "name": "한솔테크닉스",
-      "score": 89.96,
-      "price": 15460,
-      "change_pct": 18.2,
-      "expected_return_5d": 2.4,
-      "roe": 2.33,
-      "debt_ratio": 109.9
+      "code": "000890",
+      "name": "보해양조",
+      "score": 81.12,
+      "price": 3040,
+      "change_pct": 29.91,
+      "expected_return_5d": 1.31,
+      "roe": null,
+      "debt_ratio": null
     },
     {
       "rank": 2,
-      "code": "028050",
-      "name": "삼성E&A",
-      "score": 87.0,
-      "price": 49900,
-      "change_pct": 2.57,
-      "expected_return_5d": 2.22,
-      "roe": 14.58,
-      "debt_ratio": 125.8
+      "code": "055550",
+      "name": "신한지주",
+      "score": 79.41,
+      "price": 97700,
+      "change_pct": 0.21,
+      "expected_return_5d": 1.76,
+      "roe": 8.42,
+      "debt_ratio": 1201.94
     },
     {
       "rank": 3,
-      "code": "000890",
-      "name": "보해양조",
-      "score": 80.81,
-      "price": 2340,
-      "change_pct": 9.86,
-      "expected_return_5d": 1.29,
+      "code": "032640",
+      "name": "LG유플러스",
+      "score": 71.81,
+      "price": 14200,
+      "change_pct": -1.93,
+      "expected_return_5d": 0.92,
       "roe": null,
       "debt_ratio": null
     },
     {
       "rank": 4,
-      "code": "014950",
-      "name": "삼익제약",
-      "score": 78.27,
-      "price": 8960,
-      "change_pct": 6.54,
-      "expected_return_5d": 1.19,
-      "roe": null,
-      "debt_ratio": null
-    },
-    {
-      "rank": 5,
-      "code": "000660",
-      "name": "SK하이닉스",
-      "score": 78.03,
-      "price": 2919000,
-      "change_pct": 5.61,
-      "expected_return_5d": 1.68,
-      "roe": 35.59,
-      "debt_ratio": 45.95
-    },
-    {
-      "rank": 6,
-      "code": "093370",
-      "name": "후성",
-      "score": 77.85,
-      "price": 18600,
-      "change_pct": 9.8,
-      "expected_return_5d": 1.67,
-      "roe": 1.81,
-      "debt_ratio": 112.53
-    },
-    {
-      "rank": 7,
-      "code": "015760",
-      "name": "한국전력",
-      "score": 77.51,
-      "price": 38000,
-      "change_pct": 0.26,
-      "expected_return_5d": 1.65,
-      "roe": 17.57,
-      "debt_ratio": 416.85
-    },
-    {
-      "rank": 8,
-      "code": "066570",
-      "name": "LG전자",
-      "score": 76.31,
-      "price": 227500,
-      "change_pct": 7.57,
-      "expected_return_5d": 1.58,
-      "roe": 4.27,
-      "debt_ratio": 140.33
-    },
-    {
-      "rank": 9,
-      "code": "006360",
-      "name": "GS건설",
-      "score": 73.24,
-      "price": 27150,
-      "change_pct": 2.26,
-      "expected_return_5d": 1.39,
-      "roe": 1.69,
-      "debt_ratio": 234.2
-    },
-    {
-      "rank": 10,
-      "code": "017670",
-      "name": "SK텔레콤",
-      "score": 71.07,
-      "price": 94200,
-      "change_pct": -0.74,
-      "expected_return_5d": 0.88,
-      "roe": null,
-      "debt_ratio": null
-    }
-  ],
-  "top20": [
-    {
-      "rank": 1,
-      "code": "004710",
-      "name": "한솔테크닉스",
-      "score": 89.96,
-      "price": 15460,
-      "change_pct": 18.2,
-      "expected_return_5d": 2.4,
-      "roe": 2.33,
-      "debt_ratio": 109.9
-    },
-    {
-      "rank": 2,
-      "code": "028050",
-      "name": "삼성E&A",
-      "score": 87.0,
-      "price": 49900,
-      "change_pct": 2.57,
-      "expected_return_5d": 2.22,
-      "roe": 14.58,
-      "debt_ratio": 125.8
-    },
-    {
-      "rank": 3,
-      "code": "000890",
-      "name": "보해양조",
-      "score": 80.81,
-      "price": 2340,
-      "change_pct": 9.86,
-      "expected_return_5d": 1.29,
-      "roe": null,
-      "debt_ratio": null
-    },
-    {
-      "rank": 4,
-      "code": "014950",
-      "name": "삼익제약",
-      "score": 78.27,
-      "price": 8960,
-      "change_pct": 6.54,
-      "expected_return_5d": 1.19,
-      "roe": null,
-      "debt_ratio": null
-    },
-    {
-      "rank": 5,
-      "code": "000660",
-      "name": "SK하이닉스",
-      "score": 78.03,
-      "price": 2919000,
-      "change_pct": 5.61,
-      "expected_return_5d": 1.68,
-      "roe": 35.59,
-      "debt_ratio": 45.95
-    },
-    {
-      "rank": 6,
-      "code": "093370",
-      "name": "후성",
-      "score": 77.85,
-      "price": 18600,
-      "change_pct": 9.8,
-      "expected_return_5d": 1.67,
-      "roe": 1.81,
-      "debt_ratio": 112.53
-    },
-    {
-      "rank": 7,
-      "code": "015760",
-      "name": "한국전력",
-      "score": 77.51,
-      "price": 38000,
-      "change_pct": 0.26,
-      "expected_return_5d": 1.65,
-      "roe": 17.57,
-      "debt_ratio": 416.85
-    },
-    {
-      "rank": 8,
-      "code": "066570",
-      "name": "LG전자",
-      "score": 76.31,
-      "price": 227500,
-      "change_pct": 7.57,
-      "expected_return_5d": 1.58,
-      "roe": 4.27,
-      "debt_ratio": 140.33
-    },
-    {
-      "rank": 9,
-      "code": "006360",
-      "name": "GS건설",
-      "score": 73.24,
-      "price": 27150,
-      "change_pct": 2.26,
-      "expected_return_5d": 1.39,
-      "roe": 1.69,
-      "debt_ratio": 234.2
-    },
-    {
-      "rank": 10,
-      "code": "017670",
-      "name": "SK텔레콤",
-      "score": 71.07,
-      "price": 94200,
-      "change_pct": -0.74,
-      "expected_return_5d": 0.88,
-      "roe": null,
-      "debt_ratio": null
-    },
-    {
-      "rank": 11,
-      "code": "000990",
-      "name": "DB하이텍",
-      "score": 66.96,
-      "price": 174000,
-      "change_pct": 11.47,
-      "expected_return_5d": 1.02,
-      "roe": null,
-      "debt_ratio": null
-    },
-    {
-      "rank": 12,
       "code": "067290",
       "name": "JW신약",
-      "score": 66.52,
-      "price": 2730,
-      "change_pct": 16.92,
+      "score": 66.43,
+      "price": 3105,
+      "change_pct": 13.74,
       "expected_return_5d": 0.69,
       "roe": null,
       "debt_ratio": null
     },
     {
-      "rank": 13,
-      "code": "000720",
-      "name": "현대건설",
-      "score": 65.45,
-      "price": 127800,
-      "change_pct": -0.62,
-      "expected_return_5d": 0.65,
-      "roe": 5.53,
-      "debt_ratio": 174.82
-    },
-    {
-      "rank": 14,
-      "code": "047040",
-      "name": "대우건설",
-      "score": 64.67,
-      "price": 21800,
-      "change_pct": 2.59,
-      "expected_return_5d": 0.62,
-      "roe": -26.36,
-      "debt_ratio": 284.46
-    },
-    {
-      "rank": 15,
-      "code": "005930",
-      "name": "삼성전자",
-      "score": 63.58,
-      "price": 353500,
-      "change_pct": -0.14,
-      "expected_return_5d": 0.57,
-      "roe": 10.36,
-      "debt_ratio": 29.94
-    },
-    {
-      "rank": 16,
-      "code": "014910",
-      "name": "성문전자",
-      "score": 63.58,
-      "price": 3210,
-      "change_pct": 9.0,
-      "expected_return_5d": 0.57,
-      "roe": 4.58,
-      "debt_ratio": 89.05
-    },
-    {
-      "rank": 17,
+      "rank": 5,
       "code": "026940",
       "name": "부국철강",
-      "score": 61.86,
-      "price": 2890,
-      "change_pct": 29.89,
-      "expected_return_5d": 0.5,
+      "score": 66.41,
+      "price": 3755,
+      "change_pct": 29.93,
+      "expected_return_5d": 0.69,
       "roe": null,
       "debt_ratio": null
     },
     {
+      "rank": 6,
+      "code": "316140",
+      "name": "우리금융지주",
+      "score": 65.84,
+      "price": 29450,
+      "change_pct": -1.34,
+      "expected_return_5d": 0.67,
+      "roe": 8.53,
+      "debt_ratio": 1488.67
+    },
+    {
+      "rank": 7,
+      "code": "198440",
+      "name": "강동씨앤엘",
+      "score": 65.69,
+      "price": 2310,
+      "change_pct": 8.96,
+      "expected_return_5d": 0.66,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 8,
+      "code": "056090",
+      "name": "시지메드텍",
+      "score": 65.36,
+      "price": 1414,
+      "change_pct": 9.61,
+      "expected_return_5d": 0.65,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 9,
+      "code": "006340",
+      "name": "대원전선",
+      "score": 65.16,
+      "price": 10700,
+      "change_pct": 3.28,
+      "expected_return_5d": 0.64,
+      "roe": 6.69,
+      "debt_ratio": 120.57
+    },
+    {
+      "rank": 10,
+      "code": "047040",
+      "name": "대우건설",
+      "score": 63.03,
+      "price": 19380,
+      "change_pct": -11.1,
+      "expected_return_5d": 0.55,
+      "roe": -26.36,
+      "debt_ratio": 284.46
+    }
+  ],
+  "top20": [
+    {
+      "rank": 1,
+      "code": "000890",
+      "name": "보해양조",
+      "score": 81.12,
+      "price": 3040,
+      "change_pct": 29.91,
+      "expected_return_5d": 1.31,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 2,
+      "code": "055550",
+      "name": "신한지주",
+      "score": 79.41,
+      "price": 97700,
+      "change_pct": 0.21,
+      "expected_return_5d": 1.76,
+      "roe": 8.42,
+      "debt_ratio": 1201.94
+    },
+    {
+      "rank": 3,
+      "code": "032640",
+      "name": "LG유플러스",
+      "score": 71.81,
+      "price": 14200,
+      "change_pct": -1.93,
+      "expected_return_5d": 0.92,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 4,
+      "code": "067290",
+      "name": "JW신약",
+      "score": 66.43,
+      "price": 3105,
+      "change_pct": 13.74,
+      "expected_return_5d": 0.69,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 5,
+      "code": "026940",
+      "name": "부국철강",
+      "score": 66.41,
+      "price": 3755,
+      "change_pct": 29.93,
+      "expected_return_5d": 0.69,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 6,
+      "code": "316140",
+      "name": "우리금융지주",
+      "score": 65.84,
+      "price": 29450,
+      "change_pct": -1.34,
+      "expected_return_5d": 0.67,
+      "roe": 8.53,
+      "debt_ratio": 1488.67
+    },
+    {
+      "rank": 7,
+      "code": "198440",
+      "name": "강동씨앤엘",
+      "score": 65.69,
+      "price": 2310,
+      "change_pct": 8.96,
+      "expected_return_5d": 0.66,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 8,
+      "code": "056090",
+      "name": "시지메드텍",
+      "score": 65.36,
+      "price": 1414,
+      "change_pct": 9.61,
+      "expected_return_5d": 0.65,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 9,
+      "code": "006340",
+      "name": "대원전선",
+      "score": 65.16,
+      "price": 10700,
+      "change_pct": 3.28,
+      "expected_return_5d": 0.64,
+      "roe": 6.69,
+      "debt_ratio": 120.57
+    },
+    {
+      "rank": 10,
+      "code": "047040",
+      "name": "대우건설",
+      "score": 63.03,
+      "price": 19380,
+      "change_pct": -11.1,
+      "expected_return_5d": 0.55,
+      "roe": -26.36,
+      "debt_ratio": 284.46
+    },
+    {
+      "rank": 11,
+      "code": "001740",
+      "name": "SK네트웍스",
+      "score": 61.66,
+      "price": 9690,
+      "change_pct": -4.53,
+      "expected_return_5d": 0.49,
+      "roe": 2.47,
+      "debt_ratio": 148.85
+    },
+    {
+      "rank": 12,
+      "code": "088980",
+      "name": "맥쿼리인프라",
+      "score": 59.92,
+      "price": 10610,
+      "change_pct": -0.38,
+      "expected_return_5d": 0.42,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 13,
+      "code": "035250",
+      "name": "강원랜드",
+      "score": 59.7,
+      "price": 14490,
+      "change_pct": -2.16,
+      "expected_return_5d": 0.41,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 14,
+      "code": "112610",
+      "name": "씨에스윈드",
+      "score": 59.51,
+      "price": 42450,
+      "change_pct": -2.3,
+      "expected_return_5d": 0.4,
+      "roe": null,
+      "debt_ratio": null
+    },
+    {
+      "rank": 15,
+      "code": "015760",
+      "name": "한국전력",
+      "score": 59.36,
+      "price": 36250,
+      "change_pct": -4.61,
+      "expected_return_5d": 0.39,
+      "roe": 17.57,
+      "debt_ratio": 416.85
+    },
+    {
+      "rank": 16,
+      "code": "005930",
+      "name": "삼성전자",
+      "score": 59.32,
+      "price": 310000,
+      "change_pct": -12.31,
+      "expected_return_5d": 0.39,
+      "roe": 10.36,
+      "debt_ratio": 29.94
+    },
+    {
+      "rank": 17,
+      "code": "010140",
+      "name": "삼성중공업",
+      "score": 59.19,
+      "price": 24300,
+      "change_pct": -7.25,
+      "expected_return_5d": 0.39,
+      "roe": 13.08,
+      "debt_ratio": 265.05
+    },
+    {
       "rank": 18,
-      "code": "009150",
-      "name": "삼성전기",
-      "score": 60.14,
-      "price": 2228000,
-      "change_pct": -1.85,
-      "expected_return_5d": 0.43,
+      "code": "058730",
+      "name": "다스코",
+      "score": 58.22,
+      "price": 3055,
+      "change_pct": 4.44,
+      "expected_return_5d": 0.35,
       "roe": null,
       "debt_ratio": null
     },
     {
       "rank": 19,
-      "code": "009830",
-      "name": "한화솔루션",
-      "score": 57.01,
-      "price": 37850,
-      "change_pct": -0.53,
-      "expected_return_5d": 0.29,
-      "roe": null,
-      "debt_ratio": 191.14
+      "code": "005880",
+      "name": "대한해운",
+      "score": 58.16,
+      "price": 1856,
+      "change_pct": -3.98,
+      "expected_return_5d": 0.34,
+      "roe": 7.18,
+      "debt_ratio": 70.18
     },
     {
       "rank": 20,
-      "code": "024890",
-      "name": "대원화성",
-      "score": 56.85,
-      "price": 3310,
-      "change_pct": 3.76,
-      "expected_return_5d": 0.29,
-      "roe": null,
-      "debt_ratio": null
+      "code": "003490",
+      "name": "대한항공",
+      "score": 58.13,
+      "price": 25900,
+      "change_pct": -4.25,
+      "expected_return_5d": 0.34,
+      "roe": 5.65,
+      "debt_ratio": 339.88
     }
   ],
   "top5_core": [
     {
-      "rank": 1,
-      "code": "004710",
-      "name": "한솔테크닉스",
-      "score": 89.96,
-      "price": 15460,
-      "change_pct": 18.2,
-      "expected_return_5d": 2.4,
-      "roe": 2.33,
-      "debt_ratio": 109.9
-    },
-    {
       "rank": 2,
-      "code": "028050",
-      "name": "삼성E&A",
-      "score": 87.0,
-      "price": 49900,
-      "change_pct": 2.57,
-      "expected_return_5d": 2.22,
-      "roe": 14.58,
-      "debt_ratio": 125.8
-    },
-    {
-      "rank": 5,
-      "code": "000660",
-      "name": "SK하이닉스",
-      "score": 78.03,
-      "price": 2919000,
-      "change_pct": 5.61,
-      "expected_return_5d": 1.68,
-      "roe": 35.59,
-      "debt_ratio": 45.95
+      "code": "055550",
+      "name": "신한지주",
+      "score": 79.41,
+      "price": 97700,
+      "change_pct": 0.21,
+      "expected_return_5d": 1.76,
+      "roe": 8.42,
+      "debt_ratio": 1201.94
     }
   ],
   "entry_top5": [],
-  "pro_top": [
-    {
-      "rank": 1,
-      "code": "000660",
-      "name": "SK하이닉스",
-      "score": 78.03,
-      "pro_score": 72.64,
-      "price": 2919000,
-      "change_pct": 5.61,
-      "expected_return_5d": 1.68,
-      "roe": 35.59,
-      "debt_ratio": 45.95
-    }
-  ],
-  "pro_signal": true,
-  "pro_no_signal": null,
+  "pro_top": [],
+  "pro_signal": false,
+  "pro_no_signal": {
+    "signal": false,
+    "message_ko": "⚠ 오늘 진입 신호 없음",
+    "message_sub": "시장 조건 미충족 — 현금 보유 권고"
+  },
   "performance_today": {
     "win_rate": 0,
     "avg_return": 0,
@@ -402,35 +371,35 @@
     "signal_date": "2026-06-18",
     "eval_date": "2026-06-23",
     "evaluated": 16,
-    "win_count": 7,
-    "win_rate": 43.8,
-    "avg_return": 4.42,
+    "win_count": 4,
+    "win_rate": 25.0,
+    "avg_return": 0.65,
     "details": [
       {
         "rank": 2,
         "code": "009150",
         "name": "삼성전기",
         "entry": 2200000,
-        "exit": 2228000,
-        "return_pct": 1.27,
-        "result": "✅ 상승"
+        "exit": 1990000,
+        "return_pct": -9.55,
+        "result": "❌ 하락"
       },
       {
         "rank": 3,
         "code": "000660",
         "name": "SK하이닉스",
         "entry": 2685000,
-        "exit": 2919000,
-        "return_pct": 8.72,
-        "result": "✅ 상승"
+        "exit": 2555000,
+        "return_pct": -4.84,
+        "result": "❌ 하락"
       },
       {
         "rank": 4,
         "code": "005930",
         "name": "삼성전자",
         "entry": 362500,
-        "exit": 353500,
-        "return_pct": -2.48,
+        "exit": 310000,
+        "return_pct": -14.48,
         "result": "❌ 하락"
       },
       {
@@ -438,8 +407,8 @@
         "code": "003490",
         "name": "대한항공",
         "entry": 28850,
-        "exit": 27050,
-        "return_pct": -6.24,
+        "exit": 25900,
+        "return_pct": -10.23,
         "result": "❌ 하락"
       },
       {
@@ -447,8 +416,8 @@
         "code": "198440",
         "name": "강동씨앤엘",
         "entry": 1859,
-        "exit": 2120,
-        "return_pct": 14.04,
+        "exit": 2310,
+        "return_pct": 24.26,
         "result": "✅ 상승"
       },
       {
@@ -456,8 +425,8 @@
         "code": "014910",
         "name": "성문전자",
         "entry": 2820,
-        "exit": 3210,
-        "return_pct": 13.83,
+        "exit": 3010,
+        "return_pct": 6.74,
         "result": "✅ 상승"
       },
       {
@@ -465,8 +434,8 @@
         "code": "000890",
         "name": "보해양조",
         "entry": 1640,
-        "exit": 2340,
-        "return_pct": 42.68,
+        "exit": 3040,
+        "return_pct": 85.37,
         "result": "✅ 상승"
       },
       {
@@ -474,8 +443,8 @@
         "code": "093370",
         "name": "후성",
         "entry": 18840,
-        "exit": 18600,
-        "return_pct": -1.27,
+        "exit": 17760,
+        "return_pct": -5.73,
         "result": "❌ 하락"
       },
       {
@@ -483,8 +452,8 @@
         "code": "004310",
         "name": "현대약품",
         "entry": 8500,
-        "exit": 8220,
-        "return_pct": -3.29,
+        "exit": 7150,
+        "return_pct": -15.88,
         "result": "❌ 하락"
       },
       {
@@ -492,17 +461,17 @@
         "code": "004710",
         "name": "한솔테크닉스",
         "entry": 13750,
-        "exit": 15460,
-        "return_pct": 12.44,
-        "result": "✅ 상승"
+        "exit": 12870,
+        "return_pct": -6.4,
+        "result": "❌ 하락"
       },
       {
         "rank": 13,
         "code": "316140",
         "name": "우리금융지주",
         "entry": 31550,
-        "exit": 29850,
-        "return_pct": -5.39,
+        "exit": 29450,
+        "return_pct": -6.66,
         "result": "❌ 하락"
       },
       {
@@ -510,8 +479,8 @@
         "code": "010140",
         "name": "삼성중공업",
         "entry": 27700,
-        "exit": 26200,
-        "return_pct": -5.42,
+        "exit": 24300,
+        "return_pct": -12.27,
         "result": "❌ 하락"
       },
       {
@@ -519,8 +488,8 @@
         "code": "015760",
         "name": "한국전력",
         "entry": 39350,
-        "exit": 38000,
-        "return_pct": -3.43,
+        "exit": 36250,
+        "return_pct": -7.88,
         "result": "❌ 하락"
       },
       {
@@ -528,8 +497,8 @@
         "code": "402340",
         "name": "SK스퀘어",
         "entry": 1700000,
-        "exit": 1970000,
-        "return_pct": 15.88,
+        "exit": 1832000,
+        "return_pct": 7.76,
         "result": "✅ 상승"
       },
       {
@@ -537,8 +506,8 @@
         "code": "005880",
         "name": "대한해운",
         "entry": 2060,
-        "exit": 1933,
-        "return_pct": -6.17,
+        "exit": 1856,
+        "return_pct": -9.9,
         "result": "❌ 하락"
       },
       {
@@ -546,8 +515,8 @@
         "code": "034220",
         "name": "LG디스플레이",
         "entry": 13530,
-        "exit": 12930,
-        "return_pct": -4.43,
+        "exit": 12180,
+        "return_pct": -9.98,
         "result": "❌ 하락"
       }
     ]
