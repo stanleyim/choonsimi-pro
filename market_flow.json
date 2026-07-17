@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "scores": {
     "KOSPI_foreign": 0.6098,
     "KOSPI_institution": 0.5603,
@@ -498,17 +498,8 @@
       }
     ]
   },
-  "updated_at": "2026-07-16T20:57:36.606785+09:00",
+  "updated_at": "2026-07-17T20:43:31.624850+09:00",
   "history": [
-    {
-      "date": "2026-06-09",
-      "scores": {
-        "KOSPI_foreign": 0.6266,
-        "KOSPI_institution": 0.6027,
-        "KOSDAQ_foreign": 0.6291,
-        "KOSDAQ_institution": 0.5957
-      }
-    },
     {
       "date": "2026-06-11",
       "scores": {
@@ -673,6 +664,15 @@
     },
     {
       "date": "2026-07-16",
+      "scores": {
+        "KOSPI_foreign": 0.6098,
+        "KOSPI_institution": 0.5603,
+        "KOSDAQ_foreign": 0.5588,
+        "KOSDAQ_institution": 0.5404
+      }
+    },
+    {
+      "date": "2026-07-17",
       "scores": {
         "KOSPI_foreign": 0.6098,
         "KOSPI_institution": 0.5603,
